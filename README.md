@@ -1,7 +1,6 @@
-# music_player
+# Music Player
 
-A new Flutter project.
-
+A Music Player app created using flutter for dekstop.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
